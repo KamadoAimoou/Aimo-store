@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "name": "Stylish Jacket",
+      "image": "1.png",
+      "price": 120,
+      "description": "Comfortable and stylish jacket for cold days."
+    },
+    {
+      "id": 2,
+      "name": "Elegant Dress",
+      "image": "2.png",
+      "price": 150,
+      "description": "Perfect dress for formal occasions."
+    },
+    {
+      "id": 3,
+      "name": "Casual Sneakers",
+      "image": "3.png",
+      "price": 90,
+      "description": "Sneakers for everyday comfort."
+    },
+    {
+      "id": 4,
+      "name": "Winter Coat",
+      "image": "4.png",
+      "price": 180,
+      "description": "Warm and stylish winter coat."
+    },
+    {
+      "id": 5,
+      "name": "Formal Shirt",
+      "image": "5.png",
+      "price": 60,
+      "description": "Classic formal shirt for business meetings."
+    },
+    {
+      "id": 6,
+      "name": "Summer Hat",
+      "image": "6.png",
+      "price": 40,
+      "description": "Light and breathable hat for sunny days."
+    },
+    {
+      "id": 7,
+      "name": "Leather Boots",
+      "image": "1.png",
+      "price": 200,
+      "description": "Durable and stylish leather boots."
+    },
+    {
+      "id": 8,
+      "name": "Denim Jeans",
+      "image": "4.png",
+      "price": 75,
+      "description": "Comfortable and fashionable denim jeans."
+    },
+    {
+      "id": 9,
+      "name": "Casual T-Shirt",
+      "image": "5.png",
+      "price": 25,
+      "description": "Simple and comfortable casual t-shirt."
+    },
+    {
+      "id": 10,
+      "name": "Sports Watch",
+      "image": "4.png",
+      "price": 150,
+      "description": "Stylish and functional sports watch."
+    },
+    {
+      "id": 11,
+      "name": "Stylish Jacket",
+      "image": "2.png",
+      "price": 120,
+      "description": "Comfortable and stylish jacket for cold days."
+    },
+    {
+      "id": 12,
+      "name": "Elegant Dress",
+      "image": "4.png",
+      "price": 150,
+      "description": "Perfect dress for formal occasions."
+    },
+    {
+      "id": 13,
+      "name": "Casual Sneakers",
+      "image": "6.png",
+      "price": 90,
+      "description": "Sneakers for everyday comfort."
+    },
+    {
+      "id": 14,
+      "name": "Winter Coat",
+      "image": "2.png",
+      "price": 180,
+      "description": "Warm and stylish winter coat."
+    },
+    {
+      "id": 15,
+      "name": "Formal Shirt",
+      "image": "5.png",
+      "price": 60,
+      "description": "Classic formal shirt for business meetings."
+    },
+    {
+      "id": 16,
+      "name": "Summer Hat",
+      "image": "4.png",
+      "price": 40,
+      "description": "Light and breathable hat for sunny days."
+    },
+    {
+      "id": 17,
+      "name": "Leather Boots",
+      "image": "4.png",
+      "price": 200,
+      "description": "Durable and stylish leather boots."
+    },
+    {
+      "id": 18,
+      "name": "Denim Jeans",
+      "image": "4.png",
+      "price": 75,
+      "description": "Comfortable and fashionable denim jeans."
+    },
+    {
+      "id": 19,
+      "name": "Casual T-Shirt",
+      "image": "4.png",
+      "price": 25,
+      "description": "Simple and comfortable casual t-shirt."
+    },
+    {
+      "id": 20,
+      "name": "Sports Watch",
+      "image": "4.png",
+      "price": 150,
+      "description": "Stylish and functional sports watch."
+    }
+  ]
+  
