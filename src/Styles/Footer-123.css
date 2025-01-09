@@ -1,0 +1,110 @@
+:root {
+    --primary-bg: #6a0dad; /* Глубокий фиолетовый */
+    --secondary-bg: #8b5cf6; /* Светлый фиолетовый */
+    --accent-color: #e5b3fe; /* Лавандовый */
+    --text-color: #ffffff; /* Белый */
+    --link-hover: #ffb6c1; /* Нежный розовый */
+  }
+  
+  body {
+    margin: 0;
+    font-family: "Inter", sans-serif;
+  }
+  
+  /* Основной футер */
+  .footer {
+    background: linear-gradient(145deg, var(--primary-bg), var(--secondary-bg));
+    padding: 40px 20px;
+    color: var(--text-color);
+  }
+  
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  /* Логотип */
+  .footer-logo h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--accent-color);
+  }
+  
+  .footer-logo p {
+    margin-top: 8px;
+    font-size: 1rem;
+    font-weight: 300;
+    opacity: 0.8;
+  }
+  
+  /* Ссылки */
+  .footer-links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .footer-links ul li {
+    display: inline-block;
+  }
+  
+  .footer-links ul li a {
+    color: var(--text-color);
+    text-decoration: none;
+    font-size: 1rem;
+    transition: color 0.3s ease;
+  }
+  
+  .footer-links ul li a:hover {
+    color: var(--link-hover);
+  }
+  
+  /* Социальные сети */
+  .footer-socials {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .footer-socials a {
+    text-decoration: none;
+    color: var(--accent-color);
+    font-size: 1.2rem;
+    transition: color 0.3s ease;
+  }
+  
+  .footer-socials a:hover {
+    color: var(--link-hover);
+  }
+  
+  /* Нижняя часть футера */
+  .footer-bottom {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 0.9rem;
+    color: var(--text-color);
+    opacity: 0.8;
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+    padding-top: 10px;
+  }
+  
+  /* Адаптивность */
+  @media screen and (max-width: 768px) {
+    .footer-container {
+      flex-direction: column;
+      text-align: center;
+      gap: 20px;
+    }
+  
+    .footer-links ul {
+      flex-direction: column;
+      gap: 10px;
+    }
+  }
+  
